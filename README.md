@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @giacomosx
-- 👀 I’m interested in Environment, Coding, Marketing and Business.
+- 🏄 Passionate about surfing
+- 💻 Entrepreneur tired of the waste sector, pursuing programming as a new adventure
+- 👨‍👦 Father of a fantastic son 
 - 📫 How to reach me giacomo.bartoli@me.com
 
 <!---
