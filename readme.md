@@ -3,7 +3,7 @@
 
 - 👨‍👦 Father of a fantastic son
 -  🏄 Passionate about surfing
--  💻 Entrepreneur tired of the waste sector, pursuing programming as a new adventure
+-  💻 Entrepreneur tired of the waste sector, finding new adventures
 
 - 🌱 I’m currently learning **Full Stack Web Developer Course by Epicode**
 
