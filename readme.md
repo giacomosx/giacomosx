@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="center">🛠 My fav tools:</h3>
+<h3 align="center">🛠 My fav tools...</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats...</h3>
 
 ###
 
@@ -80,6 +80,6 @@
 
 ###
 
-<p align="center">...or send me an email at **giacomo.bartoli@me.com**</p>
+<p align="center">...or send me an email at giacomo.bartoli@me.com</p>
 
 ###
