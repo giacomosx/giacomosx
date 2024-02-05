@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm giacomosx</h1>
+<h1 align="center">🥷 Hi , I'm giacomosx </h1>
 
 ###
 
-<h3 align="center">🧑🏻‍💻  I'm an addicted to front end web development based in Italy</h3>
+<h3 align="center">⚛️ Addicted to front end web development based in Italy</h3>
 
 ###
 
-<p align="left">&bull; 👨‍👦 Father of a fantastic son<br>&bull;  🏄 Passionate about surfing<br>&bull;  💻 Entrepreneur tired of the waste sector, search for new adventures in the world of web development</p>
+<p align="left">&bull; 👨‍👦 Father of a fantastic son<br>&bull;  🏄 Passionate about surfing<br> &bull; 🍜 Noodles and 🍱 Uramaki enthusiast<br> &bull;  💻 Entrepreneur tired of the waste sector, search for new adventures in the world of web development</p>
 
 ###
 
