@@ -1,8 +1,8 @@
-<h1 align="center">🥷 Hi , I'm giacomosx </h1>
+<h1 align="left">🥷 Hi , I'm giacomosx </h1>
 
 ###
 
-<h3 align="center">⚛️ Addicted to front end web development based in Italy</h3>
+<h3 align="left">⚛️ Addicted to front end web development based in Italy</h3>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="center">🚀  My tech stack...</h3>
+<h3 align="left">🚀  My tech stack...</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -36,20 +38,21 @@
 
 ###
 
-<h3 align="center">🛠 My fav tools...</h3>
+<h3 align="left">🛠 My fav tools...</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  
 </div>
 
 ###
@@ -57,22 +60,22 @@
 
 ###
 
-<h3 align="center">🔥   My Stats...</h3>
+<h3 align="left">🔥   My Stats...</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=giacomosx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomosx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="center">📫 How to reach me:</h3>
+<h3 align="left">📫 How to reach me:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/giacomobartoli" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -89,7 +92,6 @@
 
 ###
 
-<p align="center">...or send me an email at giacomo.bartoli@me.com</p>
+<p align="left">...or send me an email at giacomo.bartoli@me.com</p>
 
 ###
-
