@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">⚛️ Addicted to front end web development based in Italy</h3>
+<h3 align="left">⚛️ Web Developer based in Italy</h3>
 
 ###
 
