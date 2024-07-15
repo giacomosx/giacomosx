@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">&bull; 👨‍👦 Father of a fantastic son<br>&bull;  🏄 Passionate about surfing<br> &bull; 🍜 Noodles and 🍱 Uramaki enthusiast<br> &bull;  💻 Entrepreneur tired of the waste sector, search for new adventures in the world of web development</p>
+<p align="left">&bull; 👨‍👦 Father of a fantastic son<br>&bull;  🏄 Passionate about surfing<br> &bull; 🍜 Noodles and 🍱 Uramaki enthusiast<br> &bull;  </p>
 
 ###
 
